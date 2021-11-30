@@ -1,0 +1,6 @@
+C:\Users\petar.grbic\source\repos\FacebookApiTest\FacebookApiTest\obj\Debug\netcoreapp3.1\FacebookApiTest.csproj.AssemblyReference.cache
+C:\Users\petar.grbic\source\repos\FacebookApiTest\FacebookApiTest\obj\Debug\netcoreapp3.1\FacebookApiTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\petar.grbic\source\repos\FacebookApiTest\FacebookApiTest\obj\Debug\netcoreapp3.1\FacebookApiTest.AssemblyInfoInputs.cache
+C:\Users\petar.grbic\source\repos\FacebookApiTest\FacebookApiTest\obj\Debug\netcoreapp3.1\FacebookApiTest.AssemblyInfo.cs
+C:\Users\petar.grbic\source\repos\FacebookApiTest\FacebookApiTest\obj\Debug\netcoreapp3.1\FacebookApiTest.csproj.CoreCompileInputs.cache
+C:\Users\petar.grbic\source\repos\FacebookApiTest\FacebookApiTest\obj\Debug\netcoreapp3.1\FacebookApiTest.MvcApplicationPartsAssemblyInfo.cache
